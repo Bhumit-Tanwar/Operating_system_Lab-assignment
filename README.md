@@ -14,6 +14,12 @@ This repository contains implementations of important **Operating System algorit
 - `bankers_algorithm.py` → Implementation of Banker's Algorithm  
 - `fcfs_sjf.py` → Implementation of FCFS and SJF Scheduling  
 - Output Screenshots (included below)
+- Assignment 2
+- <img width="1920" height="1080" alt="Assignment_2" src="https://github.com/user-attachments/assets/217e0e9e-dfdb-4c06-8cb1-a0f1285b50f3" />
+- Assignment 1
+- <img width="1920" height="1080" alt="Assignment_one" src="https://github.com/user-attachments/assets/71deeb11-0cec-4a34-999e-86bf160dd325" />
+
+
 
 ---
 
