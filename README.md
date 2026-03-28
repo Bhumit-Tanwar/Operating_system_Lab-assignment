@@ -15,10 +15,11 @@ This repository contains implementations of important **Operating System algorit
 - `fcfs_sjf.py` → Implementation of FCFS and SJF Scheduling  
 - Output Screenshots (included below)
 - Assignment 2
-- <img width="1920" height="1080" alt="Assignment_2" src="https://github.com/user-attachments/assets/217e0e9e-dfdb-4c06-8cb1-a0f1285b50f3" />
-- Assignment 1
-- <img width="1920" height="1080" alt="Assignment_one" src="https://github.com/user-attachments/assets/71deeb11-0cec-4a34-999e-86bf160dd325" />
+- <img width="959" height="539" alt="Screenshot 2026-03-28 115954" src="https://github.com/user-attachments/assets/a00fcfc9-b82c-4d98-a385-08db49119534" />
 
+- Assignment 1
+-<img width="959" height="539" alt="Screenshot 2026-03-28 120350" src="https://github.com/user-attachments/assets/c48943f3-83df-42bc-b27f-148e6b663ae8" />
+ 
 
 
 ---
